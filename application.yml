@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: server-config
+        synchronization:
+            core: 2.1.15
+            absence: 2.1.16
+            connect: 2.1.17
