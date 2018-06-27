@@ -7,4 +7,4 @@ spring:
                 max: 2.1.17
 
             core:
-                min: 2.1.6
+                min: 2.1.16
